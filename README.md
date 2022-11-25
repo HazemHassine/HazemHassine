@@ -3,6 +3,6 @@
 ---
 ## Hello 👋 I'm `<Hazem/>`
 I'm a 3rd Computer Science student from Tunisia<sup>🇹🇳</sup>. Passionate about Machine Learning 🖥️ and Artifical Intelligence 🤖. Always learning new things and working on projects.
-Have a tour at my github where you'll find projects ranging from a markdown parser in **java** to a Diabetes Prediciton Api in **python**.
+Have a tour in my github profile where you'll find projects ranging from a markdown parser in **java** to a Diabetes Prediciton Api in **python**.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HazemHassine&hide=contribs,prs,issues&show_icons=true&theme=synthwave&line_height=40) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HazemHassine&layout=compact&theme=synthwave)](https://github.com/HazemHassine)
