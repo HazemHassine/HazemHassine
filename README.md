@@ -1,8 +1,8 @@
 
 #  About Me:
 Hello 👋 I'm `<Hazem/>`
-I'm a 3rd Computer Science student from Tunisia<sup>🇹🇳</sup>. Passionate about Machine Learning 🖥️ and Artifical Intelligence 🤖. Always learning new things and working on projects.
-Have a tour in my github profile where you'll find projects ranging from a markdown parser in **java** to a Diabetes Prediciton Api in **python** using all kind of python frameworks and technlogies.
+I'm a 3rd Computer Science student from Tunisia<sup>🇹🇳</sup>. Passionate about Machine Learning 🖥️ and Artifical Intelligence 🤖. I'm always learning new things and working on projects.
+Have a tour in my github profile where you'll find projects ranging from a markdown parser in **java** to a Diabetes Prediciton Api in **python** using all kind of python frameworks and technologies.
 
 
 
