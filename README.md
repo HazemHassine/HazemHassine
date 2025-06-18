@@ -1,17 +1,56 @@
+## Hey, I’m **Hazem**  
+A curious and ambitious **Computer Science graduate from Tunisia**, now pursuing an MSc at the University of Passau. I’m fueled by a love of **Machine Learning & Artificial Intelligence**, always tinkering with data, algorithms, and cool web apps!
 
-#  About Me:
-Hello 👋 I'm `<Hazem/>`
-I'm a Computer Science student Graduate from Tunisia<sup>🇹🇳</sup>. Passionate about Machine Learning 🖥️ and Artifical Intelligence 🤖. I'm always learning new things and working on projects.
+---
 
-##  Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/M.Hazem.Hassine) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hazem-hassine) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14524308) 
+##  What I’m up to  
+- Building data-driven, ML-powered applications  
+- Exploring full-stack development (React, Node.js, FastAPI…)  
+- Deploying scalable solutions with Docker, Kubernetes, and Cloud platforms (GCP, Firebase, Heroku…)  
+- Blending my passion for code and design—thanks to Figma and Canva!
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=HazemHassine&theme=dark&hide_border=false)<br/>
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+## Showcasing Projects
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### **Sentiment Analysis with Streamlit**  
+An interactive NLP app that lets users upload text (or paste tweets) and instantly visualize sentiment—positive, neutral, or negative. Powered by scikit-learn/PyTorch for real-time predictions!
+
+### **CLI YouTube Video Summarizer**  
+A sleek command-line tool written in Python: download YouTube videos, run them through an ML summarizer, and extract bullet‑point recaps. Perfect for devs on-the-go who want the essence without watching the full video.
+
+### **TaxiService Full‑Stack App**  
+A JavaScript-based full‑stack demo: users can book rides, real-time updates on trip status, and integrated maps. A solid hands-on project for showcasing React, Node.js and WebSocket interactions.
+
+*(Other notable mentions: my “FL” data‑analysis Jupyter notebook, and a sleek personal portfolio site powered by React, check my GitHub for more!)*
+
+---
+
+## Tech I Speak Fluently  
+*C | Python | Java | JavaScript/TypeScript | SQL/MongoDB*  
+**Front‑end:** HTML5, CSS3, React, Bootstrap  
+**Back‑end & APIs:** Node.js, Express, FastAPI, Django  
+**ML/Data:** scikit‑learn, TensorFlow, PyTorch, Pandas, NumPy  
+**DevOps & Deployment:** Docker, Kubernetes, GCP, Firebase, Heroku, Vercel, Cloudflare, Linux  
+**Tools & Workflows:** Git, CI/CD (GitHub Actions), Insomnia, Webpack, Yarn
+
+---
+
+## GitHub Stats & Dev Fuel  
+![](https://github-readme-streak-stats.herokuapp.com/?user=HazemHassine&theme=dark&hide_border=false)  
+*Fuelled by:*
+
+> “Code is like humor. When you have to explain it, it’s bad.” 💭
+
+---
+
+## Let’s Connect  
+- LinkedIn: [hazem-hassine](https://linkedin.com/in/hazem-hassine)  
+- StackOverflow: [M.Hazem.Hassine](https://stackoverflow.com/users/14524308)  
+- Facebook: [M.Hazem.Hassine](https://facebook.com/M.Hazem.Hassine)
+
+---
+
+### ✨ In a Nutshell
+**Hazem** = ML enthusiast + full-stack tinkerer + lifelong learner.  
+I bring ideas to life—from prototype to production—and I’m always eager to dive into new tech. Think we could build something cool? Let’s connect!
