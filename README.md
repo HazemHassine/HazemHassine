@@ -1,5 +1,6 @@
 ## Hey, I’m **Hazem**  
 A curious and ambitious **Computer Science graduate from Tunisia**, now pursuing an MSc at the University of Passau. I’m fueled by a love of **Machine Learning & Artificial Intelligence**, always tinkering with data, algorithms, and cool web apps!
+Checkout my Personal Portfolio [here](https://hazemhassine.github.io/Portfolio/)
 
 ---
 
