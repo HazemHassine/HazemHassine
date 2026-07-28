@@ -1,57 +1,76 @@
-## Hey, I’m **Hazem**  
-A curious and ambitious **Computer Science graduate from Tunisia**, now pursuing an MSc at the University of Passau. I’m fueled by a love of **Machine Learning & Artificial Intelligence**, always tinkering with data, algorithms, and cool web apps!
-Checkout my Personal Portfolio [here](https://hazemhassine.github.io/Portfolio/)
+# Mohamed Hazem Hassine
 
----
+### AI-focused software engineer building agentic systems, developer tools, and thoughtful products.
 
-##  What I’m up to  
-- Building data-driven, ML-powered applications  
-- Exploring full-stack development (React, Node.js, FastAPI…)  
-- Deploying scalable solutions with Docker, Kubernetes, and Cloud platforms (GCP, Firebase, Heroku…)  
-- Blending my passion for code and design—thanks to Figma and Canva!
+I am an MSc Intelligent Interactive Systems student at Bielefeld University. I work across Python and TypeScript, from AI workflows and FastAPI services to Next.js interfaces and containerized applications.
 
----
+I am most interested in software where intelligence is useful, inspectable, and grounded in a real workflow. That means building more than a model call: clear system boundaries, durable data, human review, failure handling, and an interface people can actually use.
 
-## Showcasing Projects
+## Selected engineering work
 
-### **Sentiment Analysis with Streamlit**  
-An interactive NLP app that lets users upload text (or paste tweets) and instantly visualize sentiment—positive, neutral, or negative. Powered by scikit-learn/PyTorch for real-time predictions!
+### [Forma](https://github.com/HazemHassine/Forma)
 
-### **CLI YouTube Video Summarizer**  
-A sleek command-line tool written in Python: download YouTube videos, run them through an ML summarizer, and extract bullet‑point recaps. Perfect for devs on-the-go who want the essence without watching the full video.
+**A local-first workspace for the full job-application process.**
 
-### **TaxiService Full‑Stack App**  
-A JavaScript-based full‑stack demo: users can book rides, real-time updates on trip status, and integrated maps. A solid hands-on project for showcasing React, Node.js and WebSocket interactions.
+Forma connects résumé versioning, application tracking, company research, and cover-letter creation in one system. I built it around a FastAPI backend, a React interface, SQLite persistence, Docker, and bounded LangGraph workflows that keep research sources and human decisions visible.
 
-*(Other notable mentions: my “FL” data‑analysis Jupyter notebook, and a sleek personal portfolio site powered by React, check my GitHub for more!)*
+`Python` `FastAPI` `React` `SQLite` `LangGraph` `Docker`
 
----
+### [Gemini-MCP](https://github.com/HazemHassine/Gemini-Mcp)
 
-## Tech I Speak Fluently  
-*C | Python | Java | JavaScript/TypeScript | SQL/MongoDB*  
-**Front‑end:** HTML5, CSS3, React, Bootstrap  
-**Back‑end & APIs:** Node.js, Express, FastAPI, Django  
-**ML/Data:** scikit‑learn, TensorFlow, PyTorch, Pandas, NumPy  
-**DevOps & Deployment:** Docker, Kubernetes, GCP, Firebase, Heroku, Vercel, Cloudflare, Linux  
-**Tools & Workflows:** Git, CI/CD (GitHub Actions), Insomnia, Webpack, Yarn
+**Repository intelligence exposed as tools for coding agents.**
 
----
+This MCP server combines deterministic code navigation with Gemini-assisted planning and review. It supports repository exploration, symbol and reference search, LanceDB-backed semantic retrieval, architecture mapping, patch application, test execution, and local SQLite history.
 
-## GitHub Stats & Dev Fuel  
-![](https://github-readme-streak-stats.herokuapp.com/?user=HazemHassine&theme=dark&hide_border=false)  
-*Fuelled by:*
+`Python` `Model Context Protocol` `Gemini` `LanceDB` `SQLite` `FastAPI`
 
-> “Code is like humor. When you have to explain it, it’s bad.” 💭
+### [Receipt Saver](https://github.com/HazemHassine/receipt-saver)
 
----
+**An end-to-end application for turning receipt images into structured financial records.**
 
-## Let’s Connect  
-- LinkedIn: [hazem-hassine](https://linkedin.com/in/hazem-hassine)  
-- StackOverflow: [M.Hazem.Hassine](https://stackoverflow.com/users/14524308)  
-- Facebook: [M.Hazem.Hassine](https://facebook.com/M.Hazem.Hassine)
+The system brings together multimodal extraction, authenticated user data, budgeting workflows, reports, an AI financial assistant, and WhatsApp interaction. It is implemented as a multilingual Next.js application backed by Firebase and Google Cloud services.
 
----
+`Next.js` `React` `Gemini` `Firebase` `Google Cloud` `Twilio`
 
-### ✨ In a Nutshell
-**Hazem** = ML enthusiast + full-stack tinkerer + lifelong learner.  
-I bring ideas to life—from prototype to production—and I’m always eager to dive into new tech. Think we could build something cool? Let’s connect!
+### [YouTube AI Summarizer](https://github.com/HazemHassine/yt-videos-ai-summarizer)
+
+**A web workflow that transforms available video transcripts into structured, reusable articles.**
+
+The application handles account authentication, transcript processing, Groq-based generation, MongoDB persistence, article editing, favorites, and shareable links through a Next.js application.
+
+`Next.js` `React` `Groq` `MongoDB` `Mongoose` `JWT`
+
+### [git_scratch](https://github.com/HazemHassine/git_scratch)
+
+**A small Git-like CLI built to understand what version control stores beneath the commands.**
+
+This learning project explores repository initialization, refs, content hashing, loose-object placement, ignore rules, and the distinction between a teaching implementation and Git-compatible behavior.
+
+`Python` `CLI design` `Content-addressed storage` `Unit testing`
+
+## What I am exploring now
+
+- Agent architectures with explicit planning, review, and verification
+- RAG and semantic retrieval for code and knowledge systems
+- Local-first AI products with clear privacy boundaries
+- Evaluation and observability for workflows that include language models
+- The engineering work around AI: APIs, data models, interfaces, tests, and deployment
+
+## How I work
+
+I like ambitious systems, but I value honest engineering. I document what is implemented, separate prototypes from production claims, and treat privacy, failure modes, and maintainability as part of the product rather than cleanup for later.
+
+My favorite projects sit at the intersection of AI and software design: enough intelligence to remove real friction, enough structure to remain understandable.
+
+## Technical foundation
+
+- **AI systems:** agent workflows, RAG patterns, semantic search, Gemini, LangGraph, Groq
+- **Backend:** Python, FastAPI, REST APIs, SQLite, MongoDB
+- **Frontend:** TypeScript, JavaScript, Next.js, React, Tailwind CSS
+- **Data and ML:** pandas, NumPy, scikit-learn, PyTorch
+- **Infrastructure:** Docker, Google Cloud, Firebase, GitHub Actions
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/hazem-hassine)
+- [Email](mailto:hazemhassine.edu@gmail.com)
