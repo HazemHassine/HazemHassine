@@ -1,57 +1,57 @@
-## Hey, I’m **Hazem**  
-A curious and ambitious **Computer Science graduate from Tunisia**, now pursuing an MSc at the University of Passau. I’m fueled by a love of **Machine Learning & Artificial Intelligence**, always tinkering with data, algorithms, and cool web apps!
-Checkout my Personal Portfolio [here](https://hazemhassine.github.io/Portfolio/)
+# Mohamed Hazem Hassine
 
----
+MSc Intelligent Interactive Systems student building agentic AI systems, RAG platforms, developer tools, and production-oriented applications.
 
-##  What I’m up to  
-- Building data-driven, ML-powered applications  
-- Exploring full-stack development (React, Node.js, FastAPI…)  
-- Deploying scalable solutions with Docker, Kubernetes, and Cloud platforms (GCP, Firebase, Heroku…)  
-- Blending my passion for code and design—thanks to Figma and Canva!
+I work mainly with Python and TypeScript across AI workflows, FastAPI services, Next.js interfaces, and containerized systems. My recent projects emphasize inspectable agent workflows, local-first data handling, repository intelligence, and software that can be run and evaluated from source.
 
----
+## Selected work
 
-## Showcasing Projects
+### [Forma](https://github.com/HazemHassine/Forma)
 
-### **Sentiment Analysis with Streamlit**  
-An interactive NLP app that lets users upload text (or paste tweets) and instantly visualize sentiment—positive, neutral, or negative. Powered by scikit-learn/PyTorch for real-time predictions!
+A local-first workspace for tailoring résumés, researching companies, drafting cover letters, and tracking applications. I built a FastAPI and React application with SQLite persistence, Docker-based setup, and human-reviewed LangGraph workflows.
 
-### **CLI YouTube Video Summarizer**  
-A sleek command-line tool written in Python: download YouTube videos, run them through an ML summarizer, and extract bullet‑point recaps. Perfect for devs on-the-go who want the essence without watching the full video.
+**Technologies:** Python, FastAPI, React, Vite, SQLite, LangGraph, Docker
 
-### **TaxiService Full‑Stack App**  
-A JavaScript-based full‑stack demo: users can book rides, real-time updates on trip status, and integrated maps. A solid hands-on project for showcasing React, Node.js and WebSocket interactions.
+### [Gemini-MCP](https://github.com/HazemHassine/Gemini-Mcp)
 
-*(Other notable mentions: my “FL” data‑analysis Jupyter notebook, and a sleek personal portfolio site powered by React, check my GitHub for more!)*
+An MCP server for repository exploration, semantic code search, architecture mapping, patch review, and test execution. I implemented the Python tool layer, Gemini integration, LanceDB-backed indexing, SQLite call history, and a graph visualization service.
 
----
+**Technologies:** Python, Model Context Protocol, Gemini, LanceDB, SQLite, FastAPI
 
-## Tech I Speak Fluently  
-*C | Python | Java | JavaScript/TypeScript | SQL/MongoDB*  
-**Front‑end:** HTML5, CSS3, React, Bootstrap  
-**Back‑end & APIs:** Node.js, Express, FastAPI, Django  
-**ML/Data:** scikit‑learn, TensorFlow, PyTorch, Pandas, NumPy  
-**DevOps & Deployment:** Docker, Kubernetes, GCP, Firebase, Heroku, Vercel, Cloudflare, Linux  
-**Tools & Workflows:** Git, CI/CD (GitHub Actions), Insomnia, Webpack, Yarn
+### [YouTube AI Summarizer](https://github.com/HazemHassine/yt-videos-ai-summarizer)
 
----
+A web application that turns available English YouTube transcripts into structured articles and stores them in a personal library. The implementation combines Next.js route handlers, Groq inference, JWT-based authentication, and MongoDB persistence.
 
-## GitHub Stats & Dev Fuel  
-![](https://github-readme-streak-stats.herokuapp.com/?user=HazemHassine&theme=dark&hide_border=false)  
-*Fuelled by:*
+**Technologies:** JavaScript, Next.js, React, Groq, MongoDB, Mongoose
 
-> “Code is like humor. When you have to explain it, it’s bad.” 💭
+### [git_scratch](https://github.com/HazemHassine/git_scratch)
 
----
+An educational Python implementation for studying Git repository initialization, refs, content hashing, object storage, and staging concepts. The project deliberately documents the gap between its current behavior and production Git.
 
-## Let’s Connect  
-- LinkedIn: [hazem-hassine](https://linkedin.com/in/hazem-hassine)  
-- StackOverflow: [M.Hazem.Hassine](https://stackoverflow.com/users/14524308)  
-- Facebook: [M.Hazem.Hassine](https://facebook.com/M.Hazem.Hassine)
+**Technologies:** Python, CLI tooling, content-addressed storage
 
----
+### [VS Code Portfolio](https://github.com/HazemHassine/vscode-portfolio)
 
-### ✨ In a Nutshell
-**Hazem** = ML enthusiast + full-stack tinkerer + lifelong learner.  
-I bring ideas to life—from prototype to production—and I’m always eager to dive into new tech. Think we could build something cool? Let’s connect!
+An interactive portfolio organized around a VS Code-inspired explorer, tabs, terminal, source-control view, and AI chat panel. It is built as a component-based Next.js application with accessible labels on its primary controls.
+
+**Technologies:** JavaScript, Next.js, React, Tailwind CSS, Monaco Editor
+
+## Current focus
+
+- Agentic AI architectures with explicit review and verification steps
+- RAG, semantic search, and knowledge systems
+- Reliable AI application workflows with clear privacy and failure boundaries
+- Production-oriented backend, frontend, testing, and container workflows
+
+## Technical strengths
+
+- **AI systems:** agent workflows, RAG patterns, semantic search, Gemini, LangGraph
+- **Backend:** Python, FastAPI, REST APIs, SQLite, MongoDB
+- **Frontend:** TypeScript, JavaScript, Next.js, React, Tailwind CSS
+- **Data:** pandas, NumPy, scikit-learn, PyTorch
+- **Infrastructure:** Docker, Google Cloud, Firebase, GitHub Actions
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/hazem-hassine)
+- [Email](mailto:hazemhassine.edu@gmail.com)
