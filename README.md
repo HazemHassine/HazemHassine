@@ -1,54 +1,73 @@
 # Mohamed Hazem Hassine
 
-MSc Intelligent Interactive Systems student building agentic AI systems, RAG platforms, developer tools, and production-oriented applications.
+### AI-focused software engineer building agentic systems, developer tools, and thoughtful products.
 
-I work mainly with Python and TypeScript across AI workflows, FastAPI services, Next.js interfaces, and containerized systems. My recent projects emphasize inspectable agent workflows, local-first data handling, repository intelligence, and software that can be run and evaluated from source.
+I am an MSc Intelligent Interactive Systems student at Bielefeld University. I work across Python and TypeScript, from AI workflows and FastAPI services to Next.js interfaces and containerized applications.
 
-## Selected work
+I am most interested in software where intelligence is useful, inspectable, and grounded in a real workflow. That means building more than a model call: clear system boundaries, durable data, human review, failure handling, and an interface people can actually use.
+
+## Selected engineering work
 
 ### [Forma](https://github.com/HazemHassine/Forma)
 
-A local-first workspace for tailoring résumés, researching companies, drafting cover letters, and tracking applications. I built a FastAPI and React application with SQLite persistence, Docker-based setup, and human-reviewed LangGraph workflows.
+**A local-first workspace for the full job-application process.**
 
-**Technologies:** Python, FastAPI, React, Vite, SQLite, LangGraph, Docker
+Forma connects résumé versioning, application tracking, company research, and cover-letter creation in one system. I built it around a FastAPI backend, a React interface, SQLite persistence, Docker, and bounded LangGraph workflows that keep research sources and human decisions visible.
+
+`Python` `FastAPI` `React` `SQLite` `LangGraph` `Docker`
 
 ### [Gemini-MCP](https://github.com/HazemHassine/Gemini-Mcp)
 
-An MCP server for repository exploration, semantic code search, architecture mapping, patch review, and test execution. I implemented the Python tool layer, Gemini integration, LanceDB-backed indexing, SQLite call history, and a graph visualization service.
+**Repository intelligence exposed as tools for coding agents.**
 
-**Technologies:** Python, Model Context Protocol, Gemini, LanceDB, SQLite, FastAPI
+This MCP server combines deterministic code navigation with Gemini-assisted planning and review. It supports repository exploration, symbol and reference search, LanceDB-backed semantic retrieval, architecture mapping, patch application, test execution, and local SQLite history.
+
+`Python` `Model Context Protocol` `Gemini` `LanceDB` `SQLite` `FastAPI`
+
+### [Receipt Saver](https://github.com/HazemHassine/receipt-saver)
+
+**An end-to-end application for turning receipt images into structured financial records.**
+
+The system brings together multimodal extraction, authenticated user data, budgeting workflows, reports, an AI financial assistant, and WhatsApp interaction. It is implemented as a multilingual Next.js application backed by Firebase and Google Cloud services.
+
+`Next.js` `React` `Gemini` `Firebase` `Google Cloud` `Twilio`
 
 ### [YouTube AI Summarizer](https://github.com/HazemHassine/yt-videos-ai-summarizer)
 
-A web application that turns available English YouTube transcripts into structured articles and stores them in a personal library. The implementation combines Next.js route handlers, Groq inference, JWT-based authentication, and MongoDB persistence.
+**A web workflow that transforms available video transcripts into structured, reusable articles.**
 
-**Technologies:** JavaScript, Next.js, React, Groq, MongoDB, Mongoose
+The application handles account authentication, transcript processing, Groq-based generation, MongoDB persistence, article editing, favorites, and shareable links through a Next.js application.
+
+`Next.js` `React` `Groq` `MongoDB` `Mongoose` `JWT`
 
 ### [git_scratch](https://github.com/HazemHassine/git_scratch)
 
-An educational Python implementation for studying Git repository initialization, refs, content hashing, object storage, and staging concepts. The project deliberately documents the gap between its current behavior and production Git.
+**A small Git-like CLI built to understand what version control stores beneath the commands.**
 
-**Technologies:** Python, CLI tooling, content-addressed storage
+This learning project explores repository initialization, refs, content hashing, loose-object placement, ignore rules, and the distinction between a teaching implementation and Git-compatible behavior.
 
-### [VS Code Portfolio](https://github.com/HazemHassine/vscode-portfolio)
+`Python` `CLI design` `Content-addressed storage` `Unit testing`
 
-An interactive portfolio organized around a VS Code-inspired explorer, tabs, terminal, source-control view, and AI chat panel. It is built as a component-based Next.js application with accessible labels on its primary controls.
+## What I am exploring now
 
-**Technologies:** JavaScript, Next.js, React, Tailwind CSS, Monaco Editor
+- Agent architectures with explicit planning, review, and verification
+- RAG and semantic retrieval for code and knowledge systems
+- Local-first AI products with clear privacy boundaries
+- Evaluation and observability for workflows that include language models
+- The engineering work around AI: APIs, data models, interfaces, tests, and deployment
 
-## Current focus
+## How I work
 
-- Agentic AI architectures with explicit review and verification steps
-- RAG, semantic search, and knowledge systems
-- Reliable AI application workflows with clear privacy and failure boundaries
-- Production-oriented backend, frontend, testing, and container workflows
+I like ambitious systems, but I value honest engineering. I document what is implemented, separate prototypes from production claims, and treat privacy, failure modes, and maintainability as part of the product rather than cleanup for later.
 
-## Technical strengths
+My favorite projects sit at the intersection of AI and software design: enough intelligence to remove real friction, enough structure to remain understandable.
 
-- **AI systems:** agent workflows, RAG patterns, semantic search, Gemini, LangGraph
+## Technical foundation
+
+- **AI systems:** agent workflows, RAG patterns, semantic search, Gemini, LangGraph, Groq
 - **Backend:** Python, FastAPI, REST APIs, SQLite, MongoDB
 - **Frontend:** TypeScript, JavaScript, Next.js, React, Tailwind CSS
-- **Data:** pandas, NumPy, scikit-learn, PyTorch
+- **Data and ML:** pandas, NumPy, scikit-learn, PyTorch
 - **Infrastructure:** Docker, Google Cloud, Firebase, GitHub Actions
 
 ## Contact
