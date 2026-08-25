@@ -8,6 +8,30 @@ I am most interested in software where intelligence is useful, inspectable, and 
 
 ## Selected engineering work
 
+### [Arbiter](https://github.com/HazemHassine/Arbiter)
+
+**A local-first control plane for understanding and safely operating development environments.**
+
+Arbiter connects projects, containers, processes, ports, and configuration files in a live topology. Its FastAPI and Next.js control panel follows an observe, diagnose, propose, approve, act, and verify workflow, with typed operations, persisted approvals, rollback-aware editing, and optional agent and MCP interfaces.
+
+`Python` `FastAPI` `Next.js` `Docker` `LangGraph` `SQLite` `MCP`
+
+### [RepoTrajectory](https://github.com/HazemHassine/github_analysis)
+
+**An explainable research platform for tracking the momentum and health of open-source software.**
+
+RepoTrajectory combines GitHub REST data with compact GH Archive signals, durable collection jobs, and transparent scoring. Its research console turns repository activity into traceable momentum, delivery, contributor, and concentration metrics while preserving coverage and methodology evidence.
+
+`Python` `FastAPI` `Next.js` `PostgreSQL` `GitHub API` `Docker`
+
+### [OSS Maintainer](https://github.com/HazemHassine/github_maintainer)
+
+**An evidence-first operations console for monitoring authorized GitHub repositories.**
+
+OSS Maintainer automatically inventories and scans repositories visible to a read-only GitHub connection. It evaluates CI against exact default-branch commits, preserves scan history and raw evidence, separates evidence quality from coverage, and remains useful during GitHub outages.
+
+`Python` `FastAPI` `Next.js` `PostgreSQL` `GitHub Apps` `Playwright`
+
 ### [Forma](https://github.com/HazemHassine/Forma)
 
 **A local-first workspace for the full job-application process.**
@@ -24,29 +48,13 @@ This MCP server combines deterministic code navigation with Gemini-assisted plan
 
 `Python` `Model Context Protocol` `Gemini` `LanceDB` `SQLite` `FastAPI`
 
-### [Receipt Saver](https://github.com/HazemHassine/receipt-saver)
+### [RSVP Shift](https://github.com/HazemHassine/RSVP-Shift)
 
-**An end-to-end application for turning receipt images into structured financial records.**
+**A privacy-focused Chrome extension for fast, distraction-free reading.**
 
-The system brings together multimodal extraction, authenticated user data, budgeting workflows, reports, an AI financial assistant, and WhatsApp interaction. It is implemented as a multilingual Next.js application backed by Firebase and Google Cloud services.
+RSVP Shift turns selected webpage text into a keyboard-controlled, word-by-word reading experience. It uses focus-letter alignment, punctuation-aware timing, adjustable reading controls, and synchronized browser settings while processing all selected text locally.
 
-`Next.js` `React` `Gemini` `Firebase` `Google Cloud` `Twilio`
-
-### [YouTube AI Summarizer](https://github.com/HazemHassine/yt-videos-ai-summarizer)
-
-**A web workflow that transforms available video transcripts into structured, reusable articles.**
-
-The application handles account authentication, transcript processing, Groq-based generation, MongoDB persistence, article editing, favorites, and shareable links through a Next.js application.
-
-`Next.js` `React` `Groq` `MongoDB` `Mongoose` `JWT`
-
-### [git_scratch](https://github.com/HazemHassine/git_scratch)
-
-**A small Git-like CLI built to understand what version control stores beneath the commands.**
-
-This learning project explores repository initialization, refs, content hashing, loose-object placement, ignore rules, and the distinction between a teaching implementation and Git-compatible behavior.
-
-`Python` `CLI design` `Content-addressed storage` `Unit testing`
+`JavaScript` `Chrome Extensions` `Manifest V3` `Local-first` `Accessibility`
 
 ## What I am exploring now
 
