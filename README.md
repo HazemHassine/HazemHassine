@@ -64,6 +64,8 @@ RSVP Shift turns selected webpage text into a keyboard-controlled, word-by-word 
 - Evaluation and observability for workflows that include language models
 - The engineering work around AI: APIs, data models, interfaces, tests, and deployment
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HazemHassine&theme=github-dark-dimmed&hide_border=true&border_radius=0&type=png)](https://git.io/streak-stats)
+
 ## How I work
 
 I like ambitious systems, but I value honest engineering. I document what is implemented, separate prototypes from production claims, and treat privacy, failure modes, and maintainability as part of the product rather than cleanup for later.
