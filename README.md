@@ -1,4 +1,4 @@
-# Mohamed Hazem Hassine
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=27&duration=2000&pause=500&center=true&width=435&lines=Mohamed+Hazem+Hassine;Agentic+AI;Software+Development;%F0%9F%8C%9F+hazemhassine.space+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
 ### AI-focused software engineer building agentic systems, developer tools, and thoughtful products.
 
