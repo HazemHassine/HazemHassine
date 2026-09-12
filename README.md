@@ -24,13 +24,18 @@ RepoTrajectory combines GitHub REST data with compact GH Archive signals, durabl
 
 `Python` `FastAPI` `Next.js` `PostgreSQL` `GitHub API` `Docker`
 
-### [OSS Maintainer](https://github.com/HazemHassine/github_maintainer)
 
-**An evidence-first operations console for monitoring authorized GitHub repositories.**
+### [GitAudit](https://github.com/HazemHassine/GitAudit)
 
-OSS Maintainer automatically inventories and scans repositories visible to a read-only GitHub connection. It evaluates CI against exact default-branch commits, preserves scan history and raw evidence, separates evidence quality from coverage, and remains useful during GitHub outages.
+  An evidence-first console for auditing GitHub repositories and coordinating
+  reviewed repairs.
 
-`Python` `FastAPI` `Next.js` `PostgreSQL` `GitHub Apps` `Playwright`
+  GitAudit brings repository health, CI results, and scan history into one
+  workspace. Its audit workflow is being expanded with isolated checks,
+  approval-based Jules repair plans, independent patch validation, and one
+  managed pull request per repository.
+
+  `Python` `FastAPI` `Next.js` `PostgreSQL` `Docker` `GitHub` `Apps` `Jules``Playwright`
 
 ### [Forma](https://github.com/HazemHassine/Forma)
 
